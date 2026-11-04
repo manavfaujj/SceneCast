@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Multi-Window Frame (Cyan) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M24,30C24,26.69 26.69,24 30,24H68C71.31,24 74,26.69 74,30V58C74,61.31 71.31,64 68,64H30C26.69,64 24,61.31 24,58V30ZM30,30V58H68V30H30Z" />
+    <!-- Secondary PiP Camera Window + Broadcast Lens (Coral Red) -->
+    <path
+        android:fillColor="#FF3B5C"
+        android:pathData="M44,46C44,42.69 46.69,40 50,40H78C81.31,40 84,42.69 84,46V76C84,79.31 81.31,82 78,82H50C46.69,82 44,79.31 44,76V46Z" />
+    <!-- Camera Lens Aperture Inside PiP Window -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,53C55.58,53 52,56.58 52,61C52,65.42 55.58,69 60,69C64.42,69 68,65.42 68,61C68,56.58 64.42,53 60,53ZM72,56L78,52V70L72,66V56Z" />
+</vector>

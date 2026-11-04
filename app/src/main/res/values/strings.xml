@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SceneCast Live</string>
+    <string name="studio_subtitle">Broadcast Compositor &amp; RTMPS Studio</string>
+    <string name="live_badge">LIVE</string>
+    <string name="standby_badge">STANDBY</string>
+    <string name="connecting_badge">CONNECTING</string>
+    <string name="reconnecting_badge">RECONNECTING</string>
+    <string name="program_mode">Program Mode</string>
+    <string name="edit_mode">Edit Mode</string>
+    <string name="add_source">Add Source</string>
+    <string name="scenes_tab">Scenes</string>
+    <string name="layers_tab">Layers</string>
+    <string name="audio_tab">Audio</string>
+    <string name="stream_settings_tab">Stream</string>
+    <string name="go_live">GO LIVE</string>
+    <string name="stop_live">END STREAM</string>
+    <string name="notification_channel_name">SceneCast Live Broadcast</string>
+    <string name="notification_channel_desc">Keeps screen capture, camera, and RTMPS live streaming active in the background</string>
+</resources>
